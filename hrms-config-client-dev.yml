@@ -1,4 +1,7 @@
-profile: dev666
+spring:
+  cloud:
+    config:
+      profile: dev9999
 
 eureka:
   client:
